@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[gist 링크](gist.github.com/esctabcapslock)
+[gist 링크](https://gist.github.com/esctabcapslock)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esctabcapslock&layout=compact?&hide=jupyter%20notebook&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 <!--
