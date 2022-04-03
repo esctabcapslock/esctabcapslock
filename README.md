@@ -2,8 +2,8 @@
 
 ### My Links
 
-- [블로그](https://esctabcapslock.github.io/)
-- [gist](https://gist.github.com/esctabcapslock)
+- [Blog](https://esctabcapslock.github.io/)
+- [Gist](https://gist.github.com/esctabcapslock)
 
 ### Top Langs
 
