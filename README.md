@@ -1,5 +1,9 @@
 <!--### Hi there 👋-->
 
+### What I did
+
+- [About Me](https://esctabcapslock.github.io/about)
+
 ### My Links
 
 - [Blog](https://esctabcapslock.github.io/)
